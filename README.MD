@@ -8,4 +8,5 @@ developer is doing some development  #commit-1 from feature-1 branch
 
 
 #rebase
-rebase is another merge strategy
+.rebase is another merge strategy
+.developing still
