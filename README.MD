@@ -17,9 +17,12 @@ still adding more
 
 now it is completed
 
-
 ###this is from developer-1 conflict branch. I want to keep this line of code
 ###
 this is developer-1 conflict code end.
+iam developer-2 adding some new features.
+
+=======
+####
 iam developer-2 adding some new features.
 
