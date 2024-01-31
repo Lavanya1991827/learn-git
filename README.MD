@@ -16,3 +16,7 @@ adding more code
 still adding more
 
 now it is completed
+
+####conflict
+###this is from developer-1 conflict branch. I want to keep this line of code
+###this is developer-1 conflict code end.
